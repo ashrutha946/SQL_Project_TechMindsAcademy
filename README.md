@@ -1,4 +1,4 @@
-# SQL_Project_TechMindsAcademy
+# Pizza Hut/Pizza Sales(SQL)
 
 Database Setup
 
